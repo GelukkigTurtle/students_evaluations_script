@@ -1,3 +1,22 @@
+/** Created by: Freddy Ayala @gelukkigturtle
+    
+  This script shows a user menu with 4 options. 
+  
+  1) Fill a students array and fill 3 evaluations per each student,
+     maximum 10 students configurated.
+	 
+  2) Order the students array by allphabetically ascending order and 
+     print a formatted table for the user.
+  
+  3) Show the original student array
+  
+  4) Exit
+  
+  Note: every time the user print the table on the screen
+        the program will write the table in a file 
+
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
